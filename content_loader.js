@@ -33,8 +33,7 @@ const servicesContent = `
                 <i class="fa-solid fa-ship"></i>
                 <h3>International Trade</h3>
                 <p>We are dedicated to the import and export of industrial products, building a strong trade bridge between Europe and Asia. <br>Our mission is to connect high-quality products with the right markets more efficiently and effectively.</p>
-                
-                
+                               
             </div>
             <div class="service-card">
                 <i class="fa-solid fa-earth-americas"></i>
@@ -117,4 +116,5 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 });
+
 
