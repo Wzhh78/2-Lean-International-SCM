@@ -32,7 +32,7 @@ const servicesContent = `
             <div class="service-card">
                 <i class="fa-solid fa-ship"></i>
                 <h3>International Trade</h3>
-                <p>We are dedicated to the import and export of caravans, motorhomes, automobiles, and industrial products, building a strong trade bridge between Europe and Asia. <br>Our mission is to connect high-quality products with the right markets more efficiently and effectively.</p>
+                <p>We are dedicated to the import and export of industrial products, building a strong trade bridge between Europe and Asia. <br>Our mission is to connect high-quality products with the right markets more efficiently and effectively.</p>
                 
                 
             </div>
@@ -117,3 +117,4 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 });
+
