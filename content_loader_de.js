@@ -27,8 +27,8 @@ const servicesContentDE = `
                 <i class="fa-solid fa-ship"></i>
                 <h3>Internationaler Handel</h3>
                 <p>Wir widmen uns dem Import und Export von Caravans, Wohnmobilen, Autos und Industrieprodukten und bauen eine starke Handelsbrücke zwischen Europa und Asien auf。</p>
-                <strong>Fendt Caravan Broschüre 2026::</strong><br>
-                <a href="https://www.fendt-caravan.com/fileadmin/downloads/2026/20252163_Fendt_EU_Katalog_IT_Internet_GB.pdf" target="_blank">Hier klicken zum Herunterladen</a><br>
+              
+               
             </div>
             <div class="service-card">
                 <i class="fa-solid fa-earth-americas"></i>
@@ -114,4 +114,5 @@ document.addEventListener('DOMContentLoaded', function() {
     if (contactContainer) {
         contactContainer.innerHTML = contactContentDE;
     }
+
 });
