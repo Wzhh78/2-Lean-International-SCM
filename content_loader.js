@@ -33,8 +33,8 @@ const servicesContent = `
                 <i class="fa-solid fa-ship"></i>
                 <h3>International Trade</h3>
                 <p>We are dedicated to the import and export of caravans, motorhomes, automobiles, and industrial products, building a strong trade bridge between Europe and Asia. <br>Our mission is to connect high-quality products with the right markets more efficiently and effectively.</p>
-                <strong>Fendt Caravan Year 2026 new models brochure:</strong><br>
-                <a href="https://www.fendt-caravan.com/fileadmin/downloads/2026/20252163_Fendt_EU_Katalog_IT_Internet_GB.pdf" target="_blank">click here to down load</a><br>
+                
+                
             </div>
             <div class="service-card">
                 <i class="fa-solid fa-earth-americas"></i>
@@ -115,4 +115,5 @@ document.addEventListener('DOMContentLoaded', function() {
     if (contactContainer) {
         contactContainer.innerHTML = contactContent;
     }
+
 });
