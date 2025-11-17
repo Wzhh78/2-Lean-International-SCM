@@ -26,7 +26,7 @@ const servicesContentDE = `
             <div class="service-card">
                 <i class="fa-solid fa-ship"></i>
                 <h3>Internationaler Handel</h3>
-                <p>Wir widmen uns dem Import und Export von Caravans, Wohnmobilen, Autos und Industrieprodukten und bauen eine starke Handelsbrücke zwischen Europa und Asien auf。</p>
+                <p>Wir widmen uns dem Import und Export Industrieprodukten und bauen eine starke Handelsbrücke zwischen Europa und Asien auf。</p>
               
                
             </div>
@@ -116,3 +116,4 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 });
+
